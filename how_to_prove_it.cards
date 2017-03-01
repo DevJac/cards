@@ -1,0 +1,108 @@
+1:What does ∴ mean?
+2:therefore
+
+========================
+
+1:What does ∧ mean?
+2:logical and
+
+========================
+
+1:What does ∨ mean?
+2:logical or
+
+========================
+
+1:What does ¬ mean?
+2:logical not
+
+========================
+
+1:What number set is ℕ ?
+2:natural numbers
+
+Natural numbers are non-negative integers: {0, 1, 2, 3, 4, ...}
+Zero is sometimes considered to be a natural number, and sometimes not.
+
+========================
+
+1:What number set is ℚ ?
+2:rational numbers
+
+Rational numbers are all numbers that can be expressed as exactly as a fraction.
+
+The Q symbol comes from "quotient".
+
+=========================
+
+1:What number set is ℤ ?
+2:integers
+
+This set includes positive and negative integers: {..., -3, -2, -1, 0, 1, 2, 3, ...}
+
+The Z symbol comes from the German word for number, "Zahl".
+
+=========================
+
+1:What number set is ℝ ?
+2:real numbers
+
+Real numbers are all rational or irrational numbers on the continuous number line.
+
+=========================
+
+1:What does ∅ mean?
+2:empty set
+
+=========================
+
+1:What is the set operation ∪ ?
+2:union
+
+The union of {1, 2} and {2, 3} is {1, 2, 3}.
+
+Union looks similar to the "logical or" symbol, ∨. It includes elements that are in one set OR the other.
+
+=========================
+
+1:What is the set operator ∩ ?
+2:intersection
+
+The intersection of {1, 2} and {2, 3} is {2}.
+
+Intersection looks similar to the "logical and" symbol, ∧. It include elements that are in one set AND the other.
+
+=========================
+
+1:What is the set operator \ ?
+2:difference
+
+A \ B includes elements that are in A, but NOT in B.
+
+==========================
+
+1:What does → mean in logic?
+2:implies
+
+P → Q means if P is true, then Q is also true. It's an if-then statement.
+
+===========================
+
+1:What does ↔ mean in logic?
+2:equivalence
+
+A ↔ B means that both A and B are true, or that both A and B are false.
+
+===========================
+
+1:What does A ⊆ B mean?
+2:A is a SUBSET of B.
+
+A is a subset of B if all elements in A are also in B.
+
+===========================
+
+1:In logic, what does "iff" mean?
+2:"iff" is a shortened form of "if and only if".
+
+===========================
